@@ -6,4 +6,6 @@ Git has a mutable index called stage.
 
 Master's content!!!
 Feature I's code~~
+
+Feature II now!!
 mmmaster~~
